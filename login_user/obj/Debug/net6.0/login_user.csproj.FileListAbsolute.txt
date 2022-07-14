@@ -1,0 +1,7 @@
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.csproj.AssemblyReference.cache
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.AssemblyInfoInputs.cache
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.AssemblyInfo.cs
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.csproj.CoreCompileInputs.cache
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.MvcApplicationPartsAssemblyInfo.cs
+C:\phinity\login_user\login_user\obj\Debug\net6.0\login_user.MvcApplicationPartsAssemblyInfo.cache
