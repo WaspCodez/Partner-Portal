@@ -74,9 +74,6 @@ async function login() {
 
         </div>
 
-        <p>{{ username }}</p>
-        <p>{{ password }}</p>
-
         <div>
           <input type="checkbox" id="rememberme" />
           <label for="rememberme" id="remebermelabel">Remember Me</label>
